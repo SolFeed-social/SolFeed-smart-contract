@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "programs/solfeed"
+]
+
+[profile.release]
+overflow-checks = true
