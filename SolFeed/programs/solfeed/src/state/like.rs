@@ -5,7 +5,7 @@ pub struct Like {
     pub liker: Pubkey,      // Liker
     pub post: Pubkey,       // Post liked
     pub timestamp: i64,     // When
-
+}
 
 
 
