@@ -37,20 +37,6 @@ pub fn handler(ctx: Context<InitializeGlobalSettings>, treasury_wallet: Pubkey) 
 
 
 
-// ╔══════════════════════════════╗  Author: @TheItalianPimp 
-// ║         ☠ THE VOID ☠         ║  Name: Luca C.
-// ╠══════════════════════════════╣  Date: 04/02/2025
-// ║                              ║  Project: SolFeed
-// ║          █████████           ║
-// ║       ███░░░░░░░░░███        ║
-// ║     ██░░░░░░░░░░░░░░░██      ║
-// ║    ██░░░░░░░░░░░░░░░░░░██    ║
-// ║   ██░░░░░░░░░░░░░░░░░░░░██   ║
-// ║   ██░░░░░░░░░░░░░░░░░░░░██   ║
-// ║   ██░░░░░░░░░░░░░░░░░░░░██   ║
-// ║    ██░░░░░░░░░░░░░░░░░░██    ║
-// ║     ██░░░░░░░░░░░░░░░██      ║
-// ║       ███░░░░░░░░░███        ║
-// ║          █████████           ║
-// ║                              ║
-// ╚══════════════════════════════╝
+//   ░░░    Author: @TheItalianPimp         lucacavallaro02@proton.me
+// ░░ + ░░  Name: Luca C.                   "the last universal common anchestor"
+//   ░░░    Project: SolFeed (Solfeed)      solfeed.social@proton.me
