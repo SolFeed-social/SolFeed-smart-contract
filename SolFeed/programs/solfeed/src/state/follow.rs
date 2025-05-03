@@ -5,7 +5,7 @@ pub struct Follow {
     pub follower: Pubkey,   // follower
     pub followed: Pubkey,   // followed
     pub timestamp: i64,     // When 
-
+}
 
 
     // ╔══════════════════════════════╗  Author: @TheItalianPimp 
